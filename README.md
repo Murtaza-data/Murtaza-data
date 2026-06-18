@@ -13,3 +13,4 @@ Highly curious and committed to continuous learning, with a Master's in Data Sci
 **LLMs & Tools:** Groq (LLaMA) · Mem0 · Tavily · HuggingFace
 **Deployment:** Render · Streamlit Cloud · Supabase
 
+---
