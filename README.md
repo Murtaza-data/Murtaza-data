@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Murtaza 👋
 
-Highly curious and committed to continuous learning, with a Master's in Data Science and Analytics and a foundation in IT. I enjoy building practical, real-world AI and data solutions, and I deploy what I build rather than leaving it in a notebook. My aim is to grow in an AI/Data Role and keep solving meaningful problems.
+Highly curious and committed to continuous learning, with a Master's in Data Science and Analytics and a foundation in IT. I enjoy building practical, real-world solutions and constantly upskilling in AI and data. My aim is to grow in an AI/Data Role and keep solving meaningful problems.
 
 ---
 
