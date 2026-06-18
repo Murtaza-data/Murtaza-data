@@ -6,11 +6,9 @@ Highly curious and committed to continuous learning, with a Master's in Data Sci
 
 ## 🛠️ What I Work With
 
-**Languages & Core:** Python · SQL
-**Generative AI:** RAG · Multi-Agent Systems · Persistent Memory · Prompt Engineering
-**Frameworks:** LangChain · LangGraph · FastAPI · Streamlit
-**Data & Retrieval:** ChromaDB · PostgreSQL · BM25 · Embeddings · Vector Search
-**LLMs & Tools:** Groq (LLaMA) · Mem0 · Tavily · HuggingFace
-**Deployment:** Render · Streamlit Cloud · Supabase
-
----
+- **Languages & Core:** Python · SQL
+- **Generative AI:** RAG · Multi-Agent Systems · Persistent Memory · Prompt Engineering
+- **Frameworks:** LangChain · LangGraph · FastAPI · Streamlit
+- **Data & Retrieval:** ChromaDB · PostgreSQL · BM25 · Embeddings · Vector Search
+- **LLMs & Tools:** Groq (LLaMA) · Mem0 · Tavily · HuggingFace
+- **Deployment:** Render · Streamlit Cloud · Supabase
