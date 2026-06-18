@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mohammad Murtaza 👋
 
-<!--
-**Murtaza-data/Murtaza-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Highly curious and committed to continuous learning, with a Master's in Data Science and Analytics and a foundation in IT. I enjoy building practical, real-world AI and data solutions, and I deploy what I build rather than leaving it in a notebook. My aim is to grow in an AI/Data Role and keep solving meaningful problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Work With
+
+**Languages & Core:** Python · SQL
+**Generative AI:** RAG · Multi-Agent Systems · Persistent Memory · Prompt Engineering
+**Frameworks:** LangChain · LangGraph · FastAPI · Streamlit
+**Data & Retrieval:** ChromaDB · PostgreSQL · BM25 · Embeddings · Vector Search
+**LLMs & Tools:** Groq (LLaMA) · Mem0 · Tavily · HuggingFace
+**Deployment:** Render · Streamlit Cloud · Supabase
+
