@@ -7,6 +7,7 @@ Highly curious and committed to continuous learning, with a Master's in Data Sci
 ## 🛠️ What I Work With
 
 - **Languages & Core:** Python · SQL
+- **Machine Learning:** scikit-learn · XGBoost · Feature Engineering · SHAP · Model Evaluation (ROC-AUC · Precision / Recall)
 - **Generative AI:** RAG · Multi-Agent Systems · Persistent Memory · Prompt Engineering
 - **Frameworks:** LangChain · LangGraph · FastAPI · Streamlit
 - **Data & Retrieval:** ChromaDB · PostgreSQL · BM25 · Embeddings · Vector Search
