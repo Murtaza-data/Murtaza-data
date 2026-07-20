@@ -12,4 +12,4 @@ Highly curious and committed to continuous learning, with a Master's in Data Sci
 - **Frameworks:** LangChain · LangGraph · FastAPI · Streamlit
 - **Data & Retrieval:** ChromaDB · PostgreSQL · BM25 · Embeddings · Vector Search
 - **LLMs & Tools:** Groq · Mem0 · Tavily · HuggingFace
-- **Deployment:** Render · Streamlit Cloud · Supabase
+- **Deployment:** Render · Docker . Streamlit Cloud · Supabase
